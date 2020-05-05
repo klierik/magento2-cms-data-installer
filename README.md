@@ -16,7 +16,7 @@ This module allow to install/update/backup/remove CMS Block or Page
 Script will backup any CMS Block or CMS Page automatically to new block/page with same ID: `id_%hash%`
 
 # Examples
-Take a look at [UpgradeData.php](https://github.com/klierik/magento2-cms-data-installer/klierik/Cms/Setup/UpgradeData.php) for more examples
+Take a look at [UpgradeData.php](https://github.com/klierik/magento2-cms-data-installer/blob/master/klierik/Cms/Setup/UpgradeData.php) for more examples
 
 ### Install or Update CMS Block
 ```
