@@ -1,5 +1,5 @@
 # Magento 2 — CMS data installer
-This module as example allow to install/update/backup/remove CMS Block or Page
+This module allow to install/update/backup/remove CMS Block or Page
 
 # Installation
 * Download [master.zip](https://github.com/klierik/magento2-cms-data-installer/archive/master.zip) archive
